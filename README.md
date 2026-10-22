@@ -1,16 +1,442 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kyann2912/Kyann2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ========================= HEADER ========================= -->
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:0269A4,100:00AEEF&height=230&section=header&text=KYFE&fontSize=82&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=KOUAKOU%20YANN%20FRANCK%20EPHREM&descAlignY=58&descSize=18" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=0269A4&center=true&vCenter=true&width=800&lines=D%C3%A9veloppeur+Web;Ing%C3%A9nieur+Logiciel;Gestionnaire+de+Projet+Informatique;Passionn%C3%A9+par+les+nouvelles+technologies" />
+
+<br><br>
+
+<a href="https://github.com/Kyann2912">
+<img src="https://img.shields.io/badge/GitHub-Kyann2912-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:kouakouyann782@gmail.com">
+<img src="https://img.shields.io/badge/Email-Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+</div>
+
+---
+
+# 👨‍💻 À propos de moi
+
+Je suis **KOUAKOU YANN FRANCK EPHREM**, développeur web orienté **génie logiciel** et **gestion de projet informatique**.
+
+Titulaire d'une **Licence en Informatique — Génie Logiciel**, je poursuis actuellement un **Master en Ingénierie de Projet Informatique et Nouvelles Technologies (IPI-NT)**.
+
+Je m'intéresse particulièrement à la conception d'applications web, à l'architecture logicielle, aux bases de données et à la transformation des besoins métiers en solutions numériques.
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="180">
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/flag.svg" width="30"/>
+
+<br><br>
+
+<b>Côte d'Ivoire</b>
+
+</td>
+
+<td align="center" width="180">
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/code.svg" width="30"/>
+
+<br><br>
+
+<b>Développement Web</b>
+
+</td>
+
+<td align="center" width="180">
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/database.svg" width="30"/>
+
+<br><br>
+
+<b>Bases de données</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/diagram-project.svg" width="30"/>
+
+<br><br>
+
+<b>Génie logiciel</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/chart-line.svg" width="30"/>
+
+<br><br>
+
+<b>Gestion de projet</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/rocket.svg" width="30"/>
+
+<br><br>
+
+<b>Nouvelles technologies</b>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠️ Stack technique
+
+## 💻 Langages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python&perline=5"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</div>
+
+---
+
+## 🚀 Frameworks & technologies Web
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap&perline=5"/>
+
+</div>
+
+---
+
+## 🗄️ Bases de données
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&perline=4"/>
+
+</div>
+
+---
+
+## 🔧 Outils & environnement
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&perline=5"/>
+
+</div>
+
+---
+
+## 📐 Conception & architecture
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UML-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC-Architecture-0269A4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agile-Project%20Management-FF9F1C?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 Projets
+
+## 🔔 SAGER
+
+### Système automatisé de gestion des relances de recouvrement
+
+Application web développée dans le cadre de mon expérience à la **Direction Générale des Impôts**.
+
+L'objectif est d'automatiser la gestion des **relances fiscales** et d'améliorer le suivi des situations de recouvrement.
+
+### Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,postgresql,bootstrap,js&perline=5"/>
+
+</div>
+
+### Fonctionnalités
+
+- Gestion des contribuables
+- Gestion des impositions
+- Suivi des paiements
+- Classification des situations de paiement
+- Génération des relances fiscales
+- Automatisation de l'envoi des relances
+- Tableau de bord
+- Statistiques
+- Génération de documents PDF
+
+---
+
+## 👥 ContactHub
+
+### Gestion centralisée de contacts issus de sources de données hétérogènes
+
+Application conçue pour centraliser et gérer différents types de contacts provenant de plusieurs sources de données.
+
+### Architecture
+
+<div align="center">
+
+```text
+PostgreSQL
+    │
+    ├── Utilisateurs
+    └── Contacts professionnels
+              │
+              ▼
+          ContactHub
+              │
+              ▼
+           MongoDB
+              │
+              └── Contacts personnels
+```
+
+</div>
+
+### Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,postgresql,mongodb,bootstrap,js&perline=6"/>
+
+</div>
+
+### Fonctionnalités
+
+- Authentification
+- Gestion des utilisateurs
+- Gestion des rôles
+- Gestion des contacts professionnels
+- Gestion des contacts personnels
+- Recherche
+- Filtrage
+- Tableau de bord
+- Audit des activités
+
+---
+
+## 🏠 Coloc
+
+### Plateforme de recherche de colocation
+
+Application destinée à faciliter la recherche de colocations selon la commune et le quartier.
+
+### Objectif
+
+Mettre en relation les personnes disposant d'une place disponible dans leur logement avec celles recherchant une colocation.
+
+### Fonctionnalités
+
+- Publication d'annonces
+- Recherche de colocations
+- Recherche par localisation
+- Consultation des annonces
+- Gestion des disponibilités
+- Mise en relation
+
+---
+
+# 🎓 Formation
+
+## Master — Ingénierie de Projet Informatique & Nouvelles Technologies
+
+**IPI-NT — UIST**
+
+📅 **Octobre 2026 — Aujourd'hui**
+
+---
+
+## Licence Informatique — Génie Logiciel
+
+**Université de Technologie d'Abidjan — UTA**
+
+📅 **2025**
+
+🏆 **Résultat : Très Bien**
+
+---
+
+# 💼 Expérience
+
+## 🏢 Direction Générale des Impôts — DSI
+
+### Stagiaire en informatique / développement
+
+📅 **Août 2025 — Décembre 2025**
+
+Travaux autour du développement d'applications web, de la gestion des bases de données et de l'automatisation de processus métiers.
+
+---
+
+## 👨‍🏫 NEOPY
+
+### Formateur en informatique
+
+📅 **2026**
+
+Formation des apprenants sur les outils informatiques et participation à la conception de contenus pédagogiques.
+
+---
+
+# 🎯 Domaines d'intérêt
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/code.svg" width="25"/>
+&nbsp;&nbsp;
+<b>Développement Web</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/database.svg" width="25"/>
+&nbsp;&nbsp;
+<b>Bases de données</b>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/diagram-project.svg" width="25"/>
+&nbsp;&nbsp;
+<b>Architecture logicielle</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/chart-line.svg" width="25"/>
+&nbsp;&nbsp;
+<b>Gestion de projet</b>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/shield-halved.svg" width="25"/>
+&nbsp;&nbsp;
+<b>Sécurité informatique</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/robot.svg" width="25"/>
+&nbsp;&nbsp;
+<b>Intelligence artificielle</b>
+
+</div>
+
+---
+
+# 🌱 Actuellement
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=0269A4&center=true&vCenter=true&width=750&lines=🎓+Master+en+Ing%C3%A9nierie+de+Projet+Informatique;💻+D%C3%A9veloppement+d'applications+Web;🗄️+Approfondissement+des+bases+de+donn%C3%A9es;🏗️+Architecture+logicielle;📊+Gestion+de+projets+informatiques;🚀+Exploration+des+nouvelles+technologies"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kyann2912&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyann2912&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kyann2912&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Activité GitHub
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
+
+</div>
+
+---
+
+# 📈 Activité récente
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyann2912&theme=github_dark" width="95%"/>
+
+</div>
+
+---
+
+# 📫 Me contacter
+
+<div align="center">
+
+<a href="mailto:kouakouyann782@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-kouakouyann782%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Kyann2912">
+
+<img src="https://img.shields.io/badge/GitHub-Kyann2912-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Transformer une idée en solution informatique.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Kyann2912&label=Visites%20du%20profil&color=0269A4&style=flat-square"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:0269A4,100:00AEEF&height=130&section=footer" width="100%"/>
+
+</div>
